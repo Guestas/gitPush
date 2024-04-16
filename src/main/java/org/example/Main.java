@@ -11,9 +11,9 @@ public class Main {
 			j=j+i;
 		}
 		if (j>455){
-			System.out.println("bigger");
+			System.out.println("bigger than mee");
 		} else {
-			System.out.println("small");
+			System.out.println("smaller than mee");
 		}
 		System.out.println("program ended here");
 	}
