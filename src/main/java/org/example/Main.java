@@ -6,14 +6,14 @@ public class Main {
 	public static void main(String[] args) {
 		int j = 455;
 		for (int i = 1; i <= 5; i=i+4) {
-			System.out.println("i is: "+i);
+			System.out.println("value of i is: "+i);
 			System.out.println(i);
 			j=j+i;
 		}
 		if (j>455){
 			System.out.println("bigger");
 		} else {
-			System.out.println("smaler");
+			System.out.println("small");
 		}
 	}
 }
