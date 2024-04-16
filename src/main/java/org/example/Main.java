@@ -15,5 +15,6 @@ public class Main {
 		} else {
 			System.out.println("small");
 		}
+		System.out.println("program ended here");
 	}
 }
