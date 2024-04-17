@@ -16,8 +16,8 @@ public class Main {
 			j++;
 			System.out.println(j);
 		} else {
-			System.out.println("smaller number is j");
+			System.out.println("smaler number");
 		}
-		System.out.println("program ended here.");
+		System.out.println("program ended here");
 	}
 }
