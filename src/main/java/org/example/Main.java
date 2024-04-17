@@ -12,11 +12,11 @@ public class Main {
 			j=j+i;
 		}
 		if (j>455){
-			System.out.println("bigger number is j");
+			System.out.println("j>455");
 			j++;
 			System.out.println(j);
 		} else {
-			System.out.println("smaler number");
+			System.out.println("j<455");
 		}
 		System.out.println("program ended here");
 	}
