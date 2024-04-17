@@ -6,18 +6,18 @@ public class Main {
 	public static void main(String[] args) {
 		int j = 455;
 		for (int i = 1; i <= 5; i=i+4) {
-			System.out.println("value of i is: "+i);
+			System.out.println("value i no: "+i);
 			i = i-1;
 			System.out.println(i);
 			j=j+i;
 		}
 		if (j>455){
-			System.out.println("bigger than mee");
+			System.out.println("bigger number is j");
 			j++;
 			System.out.println(j);
 		} else {
-			System.out.println("smaller than mee");
+			System.out.println("smaller number is j");
 		}
-		System.out.println("program ended here");
+		System.out.println("program ended here.");
 	}
 }
